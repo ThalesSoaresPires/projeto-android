@@ -38,6 +38,8 @@ header > p {
     padding-top: 25px;
 }
 h1#cabecalho{
+    font-family: var(--fonte-destaque);
+    font-size: 5em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.678);
     font-weight: lighter;
 }
