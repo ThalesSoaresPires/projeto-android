@@ -30,11 +30,11 @@ header{
     text-align: center;
     color: white;
     height: 180px;
+    margin:auto;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 header > p {
-
     padding-top: 25px;
     padding-bottom: 20px;
 }
