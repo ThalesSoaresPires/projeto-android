@@ -76,8 +76,8 @@ article{
     padding: 15px;
 }
 main{
+    padding-top:30px;
     background-color: white;
-    padding:0px;
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
