@@ -31,9 +31,10 @@ header{
     color: white;
     height: 180px;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 header > p {
-    margin: auto;
+
     padding-top: 25px;
     padding-bottom: 20px;
 }
