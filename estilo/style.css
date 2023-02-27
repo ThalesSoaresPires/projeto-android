@@ -23,6 +23,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: var(--fonte-padrao);
 }
 header{
     font-family: var(--fonte-padrao);
